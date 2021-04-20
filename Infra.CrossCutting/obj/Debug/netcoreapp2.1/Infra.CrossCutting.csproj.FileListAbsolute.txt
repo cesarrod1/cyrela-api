@@ -1,0 +1,9 @@
+C:\Users\cesar\source\repos\cyrela-assistencia-api\Infra.CrossCutting\bin\Debug\netcoreapp2.1\Infra.CrossCutting.deps.json
+C:\Users\cesar\source\repos\cyrela-assistencia-api\Infra.CrossCutting\bin\Debug\netcoreapp2.1\Infra.CrossCutting.dll
+C:\Users\cesar\source\repos\cyrela-assistencia-api\Infra.CrossCutting\bin\Debug\netcoreapp2.1\Infra.CrossCutting.pdb
+C:\Users\cesar\source\repos\cyrela-assistencia-api\Infra.CrossCutting\obj\Debug\netcoreapp2.1\Infra.CrossCutting.AssemblyInfoInputs.cache
+C:\Users\cesar\source\repos\cyrela-assistencia-api\Infra.CrossCutting\obj\Debug\netcoreapp2.1\Infra.CrossCutting.AssemblyInfo.cs
+C:\Users\cesar\source\repos\cyrela-assistencia-api\Infra.CrossCutting\obj\Debug\netcoreapp2.1\Infra.CrossCutting.csproj.CoreCompileInputs.cache
+C:\Users\cesar\source\repos\cyrela-assistencia-api\Infra.CrossCutting\obj\Debug\netcoreapp2.1\Infra.CrossCutting.dll
+C:\Users\cesar\source\repos\cyrela-assistencia-api\Infra.CrossCutting\obj\Debug\netcoreapp2.1\Infra.CrossCutting.pdb
+C:\Users\cesar\source\repos\cyrela-assistencia-api\Infra.CrossCutting\obj\Debug\netcoreapp2.1\Infra.CrossCutting.csprojAssemblyReference.cache

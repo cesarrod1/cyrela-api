@@ -1,0 +1,12 @@
+C:\Users\cesar\source\repos\cyrela-assistencia-api\Service\bin\Debug\netcoreapp2.1\Service.deps.json
+C:\Users\cesar\source\repos\cyrela-assistencia-api\Service\bin\Debug\netcoreapp2.1\Service.dll
+C:\Users\cesar\source\repos\cyrela-assistencia-api\Service\bin\Debug\netcoreapp2.1\Service.pdb
+C:\Users\cesar\source\repos\cyrela-assistencia-api\Service\bin\Debug\netcoreapp2.1\Domain.dll
+C:\Users\cesar\source\repos\cyrela-assistencia-api\Service\bin\Debug\netcoreapp2.1\Domain.pdb
+C:\Users\cesar\source\repos\cyrela-assistencia-api\Service\obj\Debug\netcoreapp2.1\Service.csprojAssemblyReference.cache
+C:\Users\cesar\source\repos\cyrela-assistencia-api\Service\obj\Debug\netcoreapp2.1\Service.AssemblyInfoInputs.cache
+C:\Users\cesar\source\repos\cyrela-assistencia-api\Service\obj\Debug\netcoreapp2.1\Service.AssemblyInfo.cs
+C:\Users\cesar\source\repos\cyrela-assistencia-api\Service\obj\Debug\netcoreapp2.1\Service.csproj.CoreCompileInputs.cache
+C:\Users\cesar\source\repos\cyrela-assistencia-api\Service\obj\Debug\netcoreapp2.1\Service.csproj.CopyComplete
+C:\Users\cesar\source\repos\cyrela-assistencia-api\Service\obj\Debug\netcoreapp2.1\Service.dll
+C:\Users\cesar\source\repos\cyrela-assistencia-api\Service\obj\Debug\netcoreapp2.1\Service.pdb
